@@ -79,7 +79,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Narayan0-0&show_icons=true&theme=default" alt="Narayan0-0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan0-0&layout=compact" alt="Narayan0-0" />
-   <img src="https://camo.githubusercontent.com/cfa377195472913e54ba8400b23e94c4813cd1a00d4f085dd6cd0a91c67b3a00/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d69747a68617273686974393926" alt="GitHub Streak" />
 </p>
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Narayan0-0&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
