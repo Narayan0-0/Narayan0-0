@@ -10,13 +10,14 @@
 ---
 
 <!-- About Section -->
-- 🔭 I’m currently working on **exciting projects in web development and automation.**
+<!-- 🔭 I’m currently working on **exciting projects in web development and automation.**
 - 🌱 I’m currently learning **coldbox and AI/ML.**
 - 💬 Ask me about **JavaScript, Python, CFML, or open source contributions.**
 - 📫 How to reach me: **[narayan00215@gmail.com](mailto:narayan00215@gmail.com)**
 - ⚡ Fun fact: **I love solving puzzles and exploring new tech trends!**
 
----
+-->
+
 
 <!-- Skills Section -->
 <h3 align="left">Languages and Tools:</h3>
@@ -73,6 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ETS" width="40" height="40" title="ETS"/>
   <!-- Add more as needed -->
 </p>
+
 ---
 
 <!-- GitHub Stats -->
